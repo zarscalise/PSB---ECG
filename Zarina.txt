@@ -1,0 +1,7 @@
+DATOS CARGADOS: 
+NOMBRE: Zarina
+EDAD: 24
+FECHA: Tue Mar 28 2000
+SEXO: Femenino
+COMENTARIOS: el posta posta, funciona
+BPM: 79
